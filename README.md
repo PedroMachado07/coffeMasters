@@ -1,1 +1,1 @@
-# coffeMasters it's a order list
+CoffeMasters it's a Coffe Shop order list, made to train styles in CSS.
